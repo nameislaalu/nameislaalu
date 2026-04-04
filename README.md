@@ -38,7 +38,10 @@
 #### You can opt out from having achievements displayed on your profile by going to your [profile settings](https://github.com/settings).
 
 <br>
-
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=laalu7&show_icons=true&theme=dark" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=laalu7&theme=dark" />
+</p>
 ####  
 
 <div align="center">
