@@ -22,15 +22,8 @@
 
 ---
 
-## 💫 About Me
-
-<img align="right" width="230" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-- 🔭 React Native Developer (1.5+ yrs)
-- 🚀 Building scalable mobile apps
-- 📱 Strong in API + UI/UX
-- 🌍 Open to remote jobs
-- ⚡ Lazy but efficient 😄
+# 💫 About Me:
+🔭 I’m currently working on on cross-platform mobile apps with React Native<br>👯 I’m looking to collaborate on open-source mobile projects<br>🤝 I’m looking for help with performance optimization<br>🌱 I’m currently learning advanced React Native & mobile architecture<br>💬 Ask me about React Native development and mobile solutions<br>⚡ Fun fact - I am lazy but smart<br><br>
 
 ---
 
@@ -52,22 +45,6 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=laalu7&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=laalu7&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laalu7&theme=darkhub&no-frame=true&margin-w=8" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laalu7&theme=github-dark" />
 </p>
 
 ---
