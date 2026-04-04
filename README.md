@@ -1,6 +1,6 @@
 <!-- 🔥 Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Lalji+Patel;React+Native+Developer;Building+Mobile+Apps+That+Scale" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Lalji+Patel;React+Native+Developer;Building+Mobile+Apps+That+Scale" />
 </p>
 
 <h3 align="center">📱 React Native Developer</h3>
@@ -40,14 +40,6 @@
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=laalu7&label=Visitors&color=blue" />
-</p>
-
----
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
@@ -63,4 +55,12 @@
   <a href="https://github.com/users/Laalu7/achievements/quickdraw">
     <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100"/>
   </a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=laalu7&label=Visitors&color=blue" />
 </p>
