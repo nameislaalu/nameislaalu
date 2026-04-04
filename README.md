@@ -54,9 +54,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=laalu7&label=Visitors&color=blue" />
 </p>
-
----
-
-<p align="center">
-  ⭐️ <a href="https://github.com/laalu7">laalu7</a>
-</p>
