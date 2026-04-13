@@ -43,17 +43,20 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://github.com/users/Laalu7/achievements/pull-shark">
+  <a href="https://github.com/users/laalu7/achievements/pull-shark">
     <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100"/>
   </a>
-  <a href="https://github.com/users/Laalu7/achievements/pair-extraordinaire">
+  <a href="https://github.com/users/laalu7/achievements/pair-extraordinaire">
     <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="100"/>
   </a>
-  <a href="https://github.com/users/Laalu7/achievements/yolo">
+  <a href="https://github.com/users/laalu7/achievements/yolo">
     <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100"/>
   </a>
-  <a href="https://github.com/users/Laalu7/achievements/quickdraw">
+  <a href="https://github.com/users/laalu7/achievements/quickdraw">
     <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100"/>
+  </a>
+  <a href="https://github.com/users/laalu7/achievements/starstruck">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="100"/>
   </a>
 </p>
 
