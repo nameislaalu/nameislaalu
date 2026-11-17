@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Laalu+Kamaliya;React+Native+Developer;Building+Mobile+Apps+That+Scale" />
 </p>
 
-<h3 align="center">📱 React Native Developer</h3>
-
 ---
 
 <!-- 🌐 Socials (FIXED ICONS) -->
