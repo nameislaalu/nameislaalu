@@ -12,7 +12,7 @@
   <a href="https://instagram.com/nameislaalu">
     <img src="https://img.icons8.com/color/48/instagram-new.png" height="40"/>
   </a>
-  <a href="https://linkedin.com/in/lalji-patel-1887a3245">
+  <a href="https://www.linkedin.com/in/laalu-kamaliya">
     <img src="https://img.icons8.com/color/48/linkedin.png" height="40"/>
   </a>
   <a href="https://github.com/nameislaalu">
