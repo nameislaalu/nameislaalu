@@ -1,6 +1,6 @@
 <!-- 🔥 Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Lalji+Patel;React+Native+Developer;Building+Mobile+Apps+That+Scale" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Laalu+Kamaliya;React+Native+Developer;Building+Mobile+Apps+That+Scale" />
 </p>
 
 <h3 align="center">📱 React Native Developer</h3>
@@ -65,5 +65,9 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=laalu7&label=Visitors&color=blue" />
+  <img width="400px" src="https://count.getloli.com/get/@nameislaalu?theme=rule34"></img>
+</p>
+
+<p align="center">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:05E8BA,100:087EE1&section=footer" />
 </p>
