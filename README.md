@@ -63,7 +63,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img width="400px" src="https://count.getloli.com/get/@nameislaalu?theme=rule34"></img>
+  <img width="400px" src="https://count.getloli.com/get/@nameislaalu?theme=eva"></img>
 </p>
 
 <p align="center">
